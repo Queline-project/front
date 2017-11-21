@@ -20,7 +20,6 @@
 		</div>
 	</div>
 
-
 	<p>
 		<?php 
 			//Se o login falhar, exibe a mensagem:
