@@ -63,7 +63,7 @@
 
 			<div class="col-md-9">
 				<section class="wrapper timeline">
-					<h1>Lorem ipsum dolor sit amet</h1>
+					<h1>Lorem ipsum dolor sit amet...</h1>
 				</section>
 			</div>
 		</div>
