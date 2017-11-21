@@ -1,6 +1,5 @@
 <?php
 
-
 	if ($_SERVER['HTTP_HOST'] == 'localhost') {
 
 		$path = 'http://localhost/Projects/hermes';
