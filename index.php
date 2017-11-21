@@ -3,7 +3,7 @@
 	ob_start();
 	error_reporting(0);
 	include 'conecta.php'; 
-	//Conecta no banco do sistema 
+	//Conecta no banco do sistema.
 ?> 
 
 <!DOCTYPE html>
